@@ -1,3 +1,3 @@
 username = "Enter Your Username"
 password = "Enter Your Password"
-pagename = '__saveetha__'
+pagename = 'Enter a Page Name'
