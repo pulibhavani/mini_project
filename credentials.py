@@ -1,3 +1,3 @@
-username = "username_miniproject"
-password = "miniproject"
+username = "Enter Your Username"
+password = "Enter Your Password"
 pagename = '__saveetha__'
